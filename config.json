@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "",
+    "intro": "red de funcionarios en twitter",
     "title": "Círculo Rojo GCBA"
   },
   "legend": {
@@ -37,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 11
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 0.7,
+      "minEdgeSize": 0.1,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 11
     },
     "mouseProperties": {
       "maxRatio": 20,
